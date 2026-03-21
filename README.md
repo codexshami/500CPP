@@ -64,7 +64,7 @@ This journey is tracked with the precision of a NASA mission log. Each phase rep
 | **Phase 05** | The Strategist: Recursion, Backtracking, Patterns | 0 / 100 | 🔜 Upcoming |
 | **Phase 06** | The Master: Advanced DS, Algorithms, Optimization | 0 / 100 | 🔜 Upcoming |
 
-**✅ Problems Solved:** XX / 500  
+**✅ Problems Solved:** 06 / 500  
 **🔄 Current Status:** Charging up for Phase 01. The journey begins now.
 
 ---
