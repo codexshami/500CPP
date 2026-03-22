@@ -87,25 +87,58 @@ This journey is powered by a suite of professional-grade tools:
 The repository is structured for maximum clarity and ease of use. Each problem is a self-contained unit.
 
 ```text
-500-critical-python-problems/
-├── 📁 phase_01_fundamentals/
-│   ├── 📁 problems/
-│   │   ├── problem_001_variable_swap.py
-│   │   ├── problem_002_even_odd.py
-│   │   └── ...
-│   └── 📁 solutions/
-│       └── solution_001_variable_swap.py
-├── 📁 phase_02_data_structures/
-│   ├── 📁 problems/
-│   └── 📁 solutions/
-├── 📁 phase_03_algorithms/
-│   ├── 📁 problems/
-│   └── 📁 solutions/
-├── 📁 utils/
-│   ├── decorators.py
-│   └── test_runner.py
-├── 📄 README.md
-└── 📄 requirements.txt
+
+FullStackPython/
+│
+├── Basics/
+│   └── problems/
+│       ├── arrayandlist.py
+│       ├── basics.py
+│       ├── matrix.py
+│       ├── simplegame.py
+│       ├── sorting.py
+│       └── string.py
+│
+├── Strings/
+│   └── problems/
+│       └── ...
+│
+├── Arrays/
+│   └── problems/
+│       └── ...
+│
+├── LinkedList/
+│   └── problems/
+│       └── ...
+│
+├── Stack_Queue/
+│   └── problems/
+│       └── ...
+│
+├── Trees/
+│   └── problems/
+│       └── ...
+│
+├── Graphs/
+│   └── problems/
+│       └── ...
+│
+├── Dynamic_Programming/
+│   └── problems/
+│       └── ...
+│
+├── Recursion_Backtracking/
+│   └── problems/
+│       └── ...
+│
+├── Searching_Sorting/
+│   └── problems/
+│       └── ...
+│
+├── README.md
+└── .gitignore
+│
+├── requirements.txt
 
 ## 💡 The Philosophy: Why This Repository Exists
 
