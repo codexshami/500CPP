@@ -1,0 +1,51 @@
+# 🔹 Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# 🔹 VS Code settings
+.vscode/
+
+# 🔹 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🔹 Logs & temp files
+*.log
+*.tmp
+*.swp
+
+# 🔹 OS generated files
+.DS_Store
+Thumbs.db
+
+# 🔹 Environment variables
+.env
+
+# 🔹 Build / distribution files
+build/
+dist/
+*.egg-info/
+
+# 🔹 Testing & coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# 🔹 MyPy / type checking
+.mypy_cache/
+
+# 🔹 PyCharm
+.idea/
+
+# 🔹 System files
+*.bak
+*.sqlite3
+
+# 🔹 Node (if you add frontend later)
+node_modules/
