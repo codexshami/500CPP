@@ -64,4 +64,4 @@ Contains 20 Markdown files corresponding to the problems. Each file includes:
 - **Target Difficulty**: Easy (20%), Medium (60%), Hard (20%)
 
 ---
-*Generated with care by Antigravity - Your AI Coding Companion.*
+
