@@ -1,4 +1,9 @@
+<div align="center">
+
+
 # 500+ DSA Solutions in Python
+
+</div>
 
 Welcome to the ultimate Data Structures and Algorithms (DSA) preparation repository. This repository is a meticulously curated collection of high-quality, interview-level coding problems and their corresponding optimal Python solutions.
 
