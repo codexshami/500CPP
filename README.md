@@ -32,7 +32,7 @@ This project aims to provide a comprehensive resource for students and professio
 | Backtracking | ✅ Complete | 20 / 20 |
 | Dynamic Programming | ✅ Complete | 20 / 20 |
 | Graphs | ✅ Complete | 20 / 20 |
-| ... and more | ⏳ Pending | - |
+| ... and more | ⏳ Pending... | - |
 
 </div>
 
