@@ -1,6 +1,3 @@
-"""
-Batch 2-5 generator: Generates Problems and Solutions for all remaining empty topics.
-"""
 import os
 
 BASE_DIR = r"d:\500DCPP"
