@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# 500+ DSA Solutions in Python
+# 850+ DSA Solutions in Python
 
 
 </div>
@@ -14,69 +14,107 @@ This project aims to provide a comprehensive resource for students and professio
 
 <div align="center">
 
-### Current Progress
+#  DSA & Development Mastery Journey
 
+##  Progress Overview
+- Total Topics Covered: 42  
+- Total Problems Solved: 840 / 840  
+- Status: ✅ Completed  
 
-| Folder Topic | Status | Problems Completed |
-|---|---|---|
-| Array and List | ✅ Complete | 20 / 20 |
-| Linked List | ✅ Complete | 20 / 20 |
-| Stack and Queues | ✅ Complete | 20 / 20 |
-| Trees | ✅ Complete | 20 / 20 |
-| Heaps | ✅ Complete | 20 / 20 |
-| Sorting and Searching | ✅ Complete | 20 / 20 |
-| Matrix | ✅ Complete | 20 / 20 |
-| String | ✅ Complete | 20 / 20 |
-| Hash | ✅ Complete | 20 / 20 |
-| Sliding Window | ✅ Complete | 20 / 20 |
-| Two Pointer | ✅ Complete | 20 / 20 |
-| Recursion | ✅ Complete | 20 / 20 |
-| Backtracking | ✅ Complete | 20 / 20 |
-| Dynamic Programming | ✅ Complete | 20 / 20 |
-| Graphs | ✅ Complete | 20 / 20 |
-| 1 | Array and List | ✅ Complete | 20 / 20 |
-| 2 | Linked List | ✅ Complete | 20 / 20 |
-| 3 | Stack and Queues | ✅ Complete | 20 / 20 |
-| 4 | Trees | ✅ Complete | 20 / 20 |
-| 5 | Heaps | ✅ Complete | 20 / 20 |
-| 6 | Sorting and Searching | ✅ Complete | 20 / 20 |
-| 7 | Matrix | ✅ Complete | 20 / 20 |
-| 8 | String | ✅ Complete | 20 / 20 |
-| 9 | Hash | ✅ Complete | 20 / 20 |
-| 10 | Sliding Window | ✅ Complete | 20 / 20 |
-| 11 | Two Pointer | ✅ Complete | 20 / 20 |
-| 12 | Recursion | ✅ Complete | 20 / 20 |
-| 13 | Backtracking | ✅ Complete | 20 / 20 |
-| 14 | Dynamic Programming | ✅ Complete | 20 / 20 |
-| 15 | Graphs | ✅ Complete | 20 / 20 |
-| 16 | Greedy Algorithm | ✅ Complete | 20 / 20 |
-| 17 | Bit Manipulation | ✅ Complete | 20 / 20 |
-| 18 | Divide and Conquer | ✅ Complete | 20 / 20 |
-| 19 | Mathematical Problems | ✅ Complete | 20 / 20 |
-| 20 | Geometrical Problems | ✅ Complete | 20 / 20 |
-| 21 | Advanced Data Structures | ✅ Complete | 20 / 20 |
-| 22 | Advanced String | ✅ Complete | 20 / 20 |
-| 23 | Advanced Mathematics | ✅ Complete | 20 / 20 |
-| 24 | Advanced Problems | ✅ Complete | 20 / 20 |
-| 25 | Competitive Programming | ✅ Complete | 20 / 20 |
-| 26 | OOP | ✅ Complete | 20 / 20 |
-| 27 | Advanced Python Concepts | ✅ Complete | 20 / 20 |
-| 28 | Functional Programming | ✅ Complete | 20 / 20 |
-| 29 | Basics | ✅ Complete | 20 / 20 |
-| 30 | Concurrency & Multithreading | ✅ Complete | 20 / 20 |
-| 31 | System Design | ✅ Complete | 20 / 20 |
-| 32 | Databases | ✅ Complete | 20 / 20 |
-| 33 | Networking | ✅ Complete | 20 / 20 |
-| 34 | Security | ✅ Complete | 20 / 20 |
-| 35 | Testing & Debugging | ✅ Complete | 20 / 20 |
-| 36 | Data Science | ✅ Complete | 20 / 20 |
-| 37 | Machine Learning | ✅ Complete | 20 / 20 |
-| 38 | Web Development | ✅ Complete | 20 / 20 |
-| 39 | Game Development | ✅ Complete | 20 / 20 |
-| 40 | Real World Applications | ✅ Complete | 20 / 20 |
-| 41 | Real World Problems | ✅ Complete | 20 / 20 |
-| 42 | Miscellaneous | ✅ Complete | 20 / 20 |
-| | **TOTAL** | **✅ Complete** | **840 / 840** |
+---
+
+##  Core Data Structures & Algorithms
+
+| Topic | Status | Progress |
+|------|--------|---------|
+| Array and List | ✅ | 20 / 20 |
+| Linked List | ✅ | 20 / 20 |
+| Stack and Queues | ✅ | 20 / 20 |
+| Trees | ✅ | 20 / 20 |
+| Heaps | ✅ | 20 / 20 |
+| Sorting and Searching | ✅ | 20 / 20 |
+| Matrix | ✅ | 20 / 20 |
+| String | ✅ | 20 / 20 |
+| Hash | ✅ | 20 / 20 |
+| Sliding Window | ✅ | 20 / 20 |
+| Two Pointer | ✅ | 20 / 20 |
+| Recursion | ✅ | 20 / 20 |
+| Backtracking | ✅ | 20 / 20 |
+| Dynamic Programming | ✅ | 20 / 20 |
+| Graphs | ✅ | 20 / 20 |
+| Greedy Algorithm | ✅ | 20 / 20 |
+| Bit Manipulation | ✅ | 20 / 20 |
+| Divide and Conquer | ✅ | 20 / 20 |
+| Mathematical Problems | ✅ | 20 / 20 |
+| Geometrical Problems | ✅ | 20 / 20 |
+
+---
+
+##  Advanced Topics
+
+| Topic | Status | Progress |
+|------|--------|---------|
+| Advanced Data Structures | ✅ | 20 / 20 |
+| Advanced String | ✅ | 20 / 20 |
+| Advanced Mathematics | ✅ | 20 / 20 |
+| Advanced Problems | ✅ | 20 / 20 |
+| Competitive Programming | ✅ | 20 / 20 |
+
+---
+
+##  Programming & Software Engineering
+
+| Topic | Status | Progress |
+|------|--------|---------|
+| OOP | ✅ | 20 / 20 |
+| Advanced Python Concepts | ✅ | 20 / 20 |
+| Functional Programming | ✅ | 20 / 20 |
+| Basics | ✅ | 20 / 20 |
+| Concurrency & Multithreading | ✅ | 20 / 20 |
+
+---
+
+## Core Computer Science
+
+| Topic | Status | Progress |
+|------|--------|---------|
+| System Design | ✅ | 20 / 20 |
+| Databases | ✅ | 20 / 20 |
+| Networking | ✅ | 20 / 20 |
+| Security | ✅ | 20 / 20 |
+| Testing & Debugging | ✅ | 20 / 20 |
+
+---
+
+##  Data & Development
+
+| Topic | Status | Progress |
+|------|--------|---------|
+| Data Science | ✅ | 20 / 20 |
+| Machine Learning | ✅ | 20 / 20 |
+| Web Development | ✅ | 20 / 20 |
+| Game Development | ✅ | 20 / 20 |
+
+---
+
+##  Real-World & Miscellaneous
+
+| Topic | Status | Progress |
+|------|--------|---------|
+| Real World Applications | ✅ | 20 / 20 |
+| Real World Problems | ✅ | 20 / 20 |
+| Miscellaneous | ✅ | 20 / 20 |
+
+---
+
+##  Achievements
+
+-  Solved **840+ problems** across 42 topics  
+-  Covered **complete DSA + Core CS + Development**  
+-  Strong problem-solving & system design skills  
+-  Hands-on practice with real-world scenarios  
+
+---
 
 </div>
 
@@ -111,11 +149,22 @@ Contains 20 Markdown files corresponding to the problems. Each file includes:
 - **Complexity Analysis**: Big O notation for Time and Space.
 - **Python Code**: Clean, well-commented, and optimized implementation.
 
-## Tech Stack
-- **Language**: Python 3.10+
-- **Format**: Markdown
-- **Target Difficulty**: Easy (20%), Medium (60%), Hard (20%)
+##  Tech Stack
+
+- Languages: Python, C++, JavaScript  
+- Domains: Data Structures & Algorithms, Machine Learning, Web Development  
+- Tools: Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
 
+##  Connect With Me
 
+- GitHub: https://github.com/codexshami  
+- LinkedIn: https://linkedin.com/in/codexshami  
+- Portfolio: https://codexshami.github.io
+
+---
+
+##  Support
+
+If you like this repository, give it a ⭐ and follow for more!
