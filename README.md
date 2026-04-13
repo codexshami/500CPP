@@ -12,7 +12,6 @@ Welcome to the ultimate Data Structures and Algorithms (DSA) preparation reposit
 
 This project aims to provide a comprehensive resource for students and professionals preparing for technical interviews at top-tier tech companies. Each topic folder contains a structured set of 20 problems, ranging from Easy to Hard difficulty.
 
-<div align="center">
 
 #  DSA & Development Mastery Journey
 
@@ -116,7 +115,7 @@ This project aims to provide a comprehensive resource for students and professio
 
 ---
 
-</div>
+
 
 ## Structure for Each Folder
 
