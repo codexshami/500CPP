@@ -34,9 +34,6 @@ This project aims to provide a comprehensive resource for students and professio
 | Backtracking | ✅ Complete | 20 / 20 |
 | Dynamic Programming | ✅ Complete | 20 / 20 |
 | Graphs | ✅ Complete | 20 / 20 |
-| ... and more | ⏳ Pending... | - |
-| # | Folder Topic | Status | Problems Completed |
-|---|---|---|---|
 | 1 | Array and List | ✅ Complete | 20 / 20 |
 | 2 | Linked List | ✅ Complete | 20 / 20 |
 | 3 | Stack and Queues | ✅ Complete | 20 / 20 |
