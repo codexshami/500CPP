@@ -257,7 +257,6 @@ TOTAL   ████████████████████████
 
 </div>
 
-```bash
 # Clone the repository
 git clone https://github.com/codexshami/dsa-solutions.git
 
@@ -266,7 +265,6 @@ cd dsa-solutions
 
 # Browse any topic folder
 cd 01_Array_and_List/Problems
-```
 
 ---
 
@@ -274,7 +272,7 @@ cd 01_Array_and_List/Problems
 
 ## HOW TO USE THIS REPO
 
-```python
+
 # Step 1 — Pick a topic
 topic = "Dynamic Programming"
 
@@ -290,7 +288,7 @@ solution = open(f"{topic}/Solutions/solution01.md").read()
 # Step 6 — Move to the next problem
 
 print("Repeat until you are unstoppable.")
-```
+
 
 </div>
 
